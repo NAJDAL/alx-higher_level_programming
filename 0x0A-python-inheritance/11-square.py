@@ -1,4 +1,5 @@
- a Rectangle subclass Square."""
+#!/usr/bin/python3
+"""Define a Rectangle subclass Square."""
 Rectangle = __import__('9-rectangle').Rectangle
 
 
